@@ -1,0 +1,4 @@
+*Шаг 2/2*
+Откройте приложение WireGuard. Загрузите туда файл из вложения или отсканируйте QR-код с телефона
+
+[*Скачать на Windows*](https://download.wireguard.com/windows-client/wireguard-installer.exe)
